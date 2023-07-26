@@ -5,4 +5,5 @@ console.log(x)
 
 // concatenate
 let yes = "I"+" have"+" passed"
+yes = `i have ${.25/100} oranges`
 console.log(yes)
