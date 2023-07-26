@@ -7,3 +7,12 @@ console.log(x)
 let yes = "I"+" have"+" passed"
 yes = `i have ${.25/100} oranges`
 console.log(yes)
+
+//Booleans
+
+let a = 5;
+let y = 6;
+let z = 5;
+
+console.log(a == y)
+console.log(a == z)
